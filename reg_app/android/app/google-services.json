@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719252956074",
+    "project_id": "alali-reg-app",
+    "storage_bucket": "alali-reg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719252956074:android:f8dbf7d1f66cd73e8e01d3",
+        "android_client_info": {
+          "package_name": "com.example.reg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719252956074-utmm6bn5o9v7r2b6kl1gs3cmksbi7d0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoocSUptlQs2orj3HMvhTAk7vCA8rxavM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719252956074-utmm6bn5o9v7r2b6kl1gs3cmksbi7d0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
